@@ -3,7 +3,7 @@ Template code for COMP150_F26_Project2
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Kate's Page</title>
+	<title>Page Title</title>
 	<link rel="stylesheet" href="styles.css">
 	</head>
 
