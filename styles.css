@@ -15,8 +15,7 @@ p {
   text-align: center;
   font-family: Georgia, serif;
   font-size: large;
-  margin-left: 30px;
-  margin-right: 30px;
+  width: 80%;
 }
 
 /** class to make format of links the same as paragraph format **/
