@@ -5,13 +5,13 @@ body {
 
 /** formatting header text **/
 h1 {
-  color: #224653;
+  color: #d8f60e;
   text-align: center;
 }
 
 /** formatting paragraph text **/
 p {
-  color: #d2682b;
+  color: #224653;
   text-align: center;
   font-family: Georgia, serif;
   font-size: large;
