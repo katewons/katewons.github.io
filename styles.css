@@ -1,17 +1,17 @@
-/** setting background color **/
+/** setting background color to yellow **/
 body {
-  background-color: #d3b6d3;
+  background-color: #d4982e;
 }
 
 /** formatting header text **/
 h1 {
-  color: #660033;
+  color: #d2682b;
   text-align: center;
 }
 
 /** formatting paragraph text **/
 p {
-  color: red;
+  color: #d2682b;
   text-align: center;
   font-family: Georgia, serif;
   font-size: large;
