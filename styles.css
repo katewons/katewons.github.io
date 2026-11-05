@@ -11,6 +11,9 @@ h1 {
 
 p {
   color: red;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: large
 }
 
 .text_style {
