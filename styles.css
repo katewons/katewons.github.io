@@ -16,6 +16,8 @@ p {
   font-family: Georgia, serif;
   font-size: large;
   width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /** class to make format of links the same as paragraph format **/
@@ -35,7 +37,7 @@ img {
 
 /* class to center images dynamically */
 .center-image {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
