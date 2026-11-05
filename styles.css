@@ -1,17 +1,26 @@
-
+/** setting background color **/
 body {
   background-color: #d3b6d3;
 }
+
+
 h1 {
   color: #660033;
   text-align: center;
 }
+
 p {
   color: red;
 }
-/** CSS comments are written enclosed with these characters **/
 
-/** formatting images so they all appear the same **/
+.text_style {
+  color: red;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: large
+}
+
+/** formatting images so they all appear the same size **/
 img {
     width: 300px;
     height: 300px;
@@ -19,19 +28,10 @@ img {
     margin: 15px;
 }
 
-/* class to center images */
+/* class to center images dynamically */
 .center-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
-
-
-.myclass {
-  background-color: #fff7e8; /** hex codes also work for colors **/
-}
-
-#unique-id {
-  font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
