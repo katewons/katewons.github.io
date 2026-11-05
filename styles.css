@@ -37,8 +37,28 @@ img {
 
 /* class to center images dynamically */
 .center-image {
-    display: flex;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.chartruse-border {
+  border: 6px solid #af9e00;
+}
+
+.orange-border {
+  border: 6px solid #d8560e;
+}
+
+.pink-border {
+  border: 6px solid #d12f60;
+}
+
+.periwinkle-border {
+  border: 6px solid #6777b6;
+}
+
+.lavender-border {
+  border: 6px solid #cba3cb;
 }
