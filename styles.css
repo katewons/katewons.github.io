@@ -15,10 +15,16 @@ p {
   text-align: center;
   font-family: Georgia, serif;
   font-size: large;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
+/** class to make format of links the same as paragraph format **/
+.link_class {
+  font-family: Georgia, serif;
+  color: #B2A659; 
+  font-size: large
+}
 
 /** formatting images so they all appear the same size **/
 img {
